@@ -23,6 +23,8 @@ TinDog is a simple, responsive web page built using HTML and CSS. It demonstrate
 
 To run this project locally:
 
+(Instead you can just click on this web link: https://unbracedm56.github.io/TinDog/)
+
 1. Clone this repository:
     ```bash
     git clone https://github.com/your-username/TinDog.git
